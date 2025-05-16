@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @Timothy-Obote
+🖥️ Tech content creator — I write about tech, wellness, and mindfulness on Medium
+
+💡 Exploring web development and starting my journey into cybersecurity
+
+🤝  I'm open to collaborating on beginner-friendly coding projects to upskill, build experience, and connect with fellow learners.
+
+🚀 Always up for sharing knowledge and building in public
 
 
 <!---
