@@ -4,7 +4,7 @@
 
 💡 Exploring web development and starting my journey into cybersecurity
 
-🤝  I'm open to collaborating on beginner-friendly coding projects to upskill, build experience, and connect with fellow learners , email, gortimothyobote@gmail.com.
+🤝  I'm open to collaborating on beginner-friendly coding projects to upskill, build experience, and connect with fellow learners , @gortimothyobote@gmail.com.
 
 🚀 Always up for sharing knowledge and building in public 
 
