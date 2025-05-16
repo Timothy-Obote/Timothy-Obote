@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Timothy-Obote
+👋 Hi, I’m @Timothy-Obote
+ 
 🖥️ Tech content creator — I write about tech, wellness, and mindfulness on Medium
 
 💡 Exploring web development and starting my journey into cybersecurity
