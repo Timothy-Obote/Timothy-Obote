@@ -1,4 +1,4 @@
-👋 Hi, I’m @Timothy-Obote
+👋 Hi, I’m Tim.
  
 🖥️ Tech content creator — I write about tech, wellness, and mindfulness on Medium
 
